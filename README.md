@@ -39,7 +39,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [DevURLs](https://devurls.com) - Curated stream of developer links sourced from technical publications.
 - [Echo JS](https://echojs.com) - JavaScript-focused news stream with community voting.
 - [Techmeme](https://www.techmeme.com) - Aggregated technology headlines from multiple publications.
-- [Hckr News](https://hckrnews.com) - Alternative interface for browsing Hacker News stories and threads.
 - [Refind](https://refind.com) - Personalized knowledge feed that recommends technical articles by reading patterns.
 - [InfoQ News](https://www.infoq.com/news) - Engineering news stream covering architecture, DevOps, and platform topics.
 - [Smashing Magazine](https://www.smashingmagazine.com) - Publication with frequent frontend and web platform updates.
@@ -128,7 +127,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [DEV Community*](https://dev.to) - Social publishing and discussion platform for software developers.
 - [Hashnode](https://hashnode.com) - Developer community platform with articles and team publications.
 - [GitHub Discussions](https://docs.github.com/en/discussions) - Repository-based discussion threads for product and open source communities.
-- [freeCodeCamp Forum*](https://forum.freecodecamp.org) - Community forum for coding learners and mentors.
+- [Stack Exchange](https://stackexchange.com) - Network of technical Q&A communities across specialist topics.
 - [Indie Hackers](https://www.indiehackers.com) - Community forum for builders working on software products.
 - [Reddit r/programming](https://www.reddit.com/r/programming) - High-traffic programming link forum with community discussion.
 - [GitHub Community General](https://github.com/orgs/community/discussions/categories/general) - General discussion space for developer platform questions and feedback.
@@ -138,13 +137,13 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Professional networks and social platforms built for developers.*
 
-- [app.daily.dev](https://app.daily.dev) - Social feed for following developer content and activity.
+- [daily.dev](https://app.daily.dev) - Social feed for following developer content and activity.
 - [GitHub](https://github.com) - Code hosting network with social discovery around repositories and contributors.
 - [X](https://x.com) - Real-time social network used by many developers to share tooling updates.
-- [Threads](https://www.threads.net) - Social feed platform where developers follow creators and product teams.
+- [Discord](https://discord.com) - Community platform with active developer servers for discussion and collaboration.
 - [Showwcase](https://www.showwcase.com) - Social network centered on developer projects and articles.
 - [Mastodon](https://joinmastodon.org) - Federated social network with active developer instances.
-- [Bluesky](https://bsky.app) - Decentralized social platform with growing technical communities.
+- [Kaggle](https://www.kaggle.com) - Data science community with public notebooks and discussion channels.
 - [GitHub Community Discussions](https://github.com/orgs/community/discussions) - Public discussions on GitHub workflows and developer collaboration.
 - [devRant](https://devrant.com) - Developer-focused social network for short-form discussions and advice.
 - [Hashnode Community](https://hashnode.com/community) - Discovery page for active developer posts and community interaction.
@@ -191,6 +190,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer) - Assistant for coding and AWS workflow tasks.
 - [Aider](https://aider.chat) - Terminal-based coding assistant that edits files from chat prompts.
 - [Continue](https://www.continue.dev) - Open source framework for adding assistant workflows to editors.
+- [Codex](https://github.com/openai/codex) - Open source coding agent from OpenAI for terminal-based development tasks.
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai) - Integrated assistant features for JetBrains IDE workflows.
 - [Tabby](https://tabbyml.com) - Open source self-hosted coding assistant for private codebases.
 
@@ -218,7 +218,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [DevHunt](https://devhunt.org) - Product discovery community focused on developer tools.
 - [Console](https://console.dev) - Curated discovery feed for new developer tooling.
 - [GitHub Topic: Developer Tools](https://github.com/topics/developer-tools) - Topic index for comparing active developer tool repositories.
-- [GitHub Topic: Open Source](https://github.com/topics/open-source) - Discovery feed for notable open source software projects.
+- [Open Source Guides](https://opensource.guide) - Practical guides for evaluating and contributing to open source projects.
 - [Best of JS](https://bestofjs.org) - JavaScript project discovery index ranked by activity and popularity.
 - [GitHub Trending](https://github.com/trending) - Daily and weekly list of repositories gaining momentum.
 - [GitHub Explore](https://github.com/explore) - Curated collections for finding notable projects and emerging topics.
@@ -228,9 +228,9 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Platforms for finding developer jobs, from junior roles to senior remote positions.*
 
-- [GitHub Topic: Jobs](https://github.com/topics/jobs) - Aggregated repositories and resources related to software hiring.
+- [Wellfound](https://wellfound.com) - Startup-focused hiring marketplace for software engineering roles.
 - [Arc](https://arc.dev) - Developer hiring platform with remote and contract opportunities.
-- [GitHub Topic: Remote Work](https://github.com/topics/remote-work) - Remote-oriented resources and job-related tooling references.
+- [No Fluff Jobs](https://nofluffjobs.com) - Engineering-focused job board with transparent salary ranges.
 - [Remote OK](https://remoteok.com) - Remote job aggregator with developer filters.
 - [Built In](https://builtin.com/jobs/dev-engineering) - City-based technology job marketplace.
 - [Built In Remote Developer Jobs](https://builtin.com/jobs/remote/dev-engineering) - Remote engineering role listings across software companies.
@@ -259,7 +259,6 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Free and paid platforms for learning to code and building technical depth.*
 
-- [daily.dev Docs](https://docs.daily.dev/docs/intro) - Documentation hub for learning feed setup, personalization, and product features.
 - [freeCodeCamp*](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
 - [The Odin Project*](https://www.theodinproject.com) - Open curriculum focused on full-stack web development.
 - [Codecademy*](https://www.codecademy.com) - Interactive coding lessons across multiple languages.
@@ -275,7 +274,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Sites for sharpening your skills and preparing for technical interviews.*
 
-- [Exercism Practice](https://exercism.org/tracks) - Language-specific exercises designed for regular coding practice.
+- [AtCoder](https://atcoder.jp) - Competitive programming contests and problem archives for algorithm practice.
 - [HackerRank*](https://www.hackerrank.com) - Programming challenges and skill assessments by domain.
 - [Codewars](https://www.codewars.com) - Kata-based coding exercises with community solutions.
 - [CodeSignal](https://codesignal.com) - Practice and assessment platform for technical hiring preparation.
