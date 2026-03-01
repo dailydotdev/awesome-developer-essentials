@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security policy
+    url: https://github.com/dailydotdev/awesome-developer-essentials/security/policy
+    about: Please report security issues privately when possible.
+  - name: Code of conduct
+    url: https://github.com/dailydotdev/awesome-developer-essentials/blob/main/code-of-conduct.md
+    about: Please review community expectations before posting.
