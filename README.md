@@ -4,6 +4,8 @@
 
 Developers stay updated by reading blogs, scanning communities, and hearing about tools from people they trust. This list curates practical places to follow developer news, discover new frameworks, join technical communities, improve daily workflow, and build long-term career depth.
 
+Entries marked with `*` are especially beginner-friendly.
+
 ## Contents
 
 - [News Aggregators and Feeds](#news-aggregators-and-feeds)
@@ -31,14 +33,15 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 
 *Platforms that aggregate developer news so you can stay updated without checking dozens of sites.*
 
-- [daily.dev](https://daily.dev) - Personalized developer news feed that ranks stories by your interests.
+- [daily.dev*](https://daily.dev) - Personalized developer news feed that ranks stories by your interests.
 - [Hacker News](https://news.ycombinator.com) - Link and discussion forum focused on software, startups, and computing.
 - [Lobsters](https://lobste.rs) - Community-curated discussion feed focused on computing topics.
 - [DevURLs](https://devurls.com) - Curated stream of developer links sourced from technical publications.
 - [Echo JS](https://echojs.com) - JavaScript-focused news stream with community voting.
 - [Techmeme](https://www.techmeme.com) - Aggregated technology headlines from multiple publications.
-- [Hckr News](https://hckrnews.com) - Alternative interface for browsing Hacker News stories and threads.
 - [Refind](https://refind.com) - Personalized knowledge feed that recommends technical articles by reading patterns.
+- [InfoQ News](https://www.infoq.com/news) - Engineering news stream covering architecture, DevOps, and platform topics.
+- [Smashing Magazine](https://www.smashingmagazine.com) - Publication with frequent frontend and web platform updates.
 
 ## Newsletters
 
@@ -52,6 +55,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [Python Weekly](https://www.pythonweekly.com) - Weekly collection of Python articles and releases.
 - [Golang Weekly](https://golangweekly.com) - Weekly digest of Go ecosystem updates and resources.
 - [Quastor](https://www.quastor.org) - Engineering newsletter focused on backend and system design content.
+- [Node Weekly](https://nodeweekly.com) - Weekly digest focused on Node.js releases and ecosystem news.
+- [React Status](https://react.statuscode.com) - Weekly updates on React and adjacent frontend tooling.
 
 ## Individual Developer Blogs
 
@@ -65,6 +70,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [Overreacted](https://overreacted.io) - Articles on React, JavaScript, and software thinking patterns.
 - [Coding Horror](https://blog.codinghorror.com) - Commentary on software development culture and product building.
 - [Troy Hunt](https://www.troyhunt.com) - Security-focused writing for developers and technology teams.
+- [Kent C. Dodds](https://kentcdodds.com/blog) - Tutorials and essays on JavaScript testing, React, and developer workflow.
+- [Addy Osmani](https://addyosmani.com/blog) - Performance and web engineering guidance from Chrome ecosystem work.
 
 ## Company Engineering Blogs
 
@@ -78,6 +85,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [Slack Engineering](https://slack.engineering) - Writing on distributed systems and internal developer tooling.
 - [Datadog Engineering](https://www.datadoghq.com/blog/engineering) - Monitoring and platform engineering case studies.
 - [LinkedIn Engineering](https://engineering.linkedin.com) - Engineering posts on scaling systems and platform development.
+- [CNCF Blog](https://www.cncf.io/blog) - Cloud native engineering updates from maintainers and contributors.
+- [Vercel Blog](https://vercel.com/blog) - Product and engineering updates for modern web development.
 
 ## Podcasts and YouTube Channels
 
@@ -91,6 +100,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) - Streams and clips about developer productivity and tooling choices.
 - [Traversy Media](https://www.youtube.com/@TraversyMedia) - Tutorials on web development stacks and workflows.
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Concept-first videos on frontend and backend development.
+- [The Net Ninja](https://www.youtube.com/@NetNinja) - Structured tutorials on full-stack and framework fundamentals.
+- [Theo - t3.gg](https://www.youtube.com/@t3dotgg) - Commentary and breakdowns of modern developer tooling and trends.
 
 ## Developer Surveys and Trend Reports
 
@@ -104,6 +115,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [Google DORA Report](https://dora.dev) - Research on software delivery practices and engineering performance.
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) - Opinionated guidance on technologies to adopt, trial, or hold.
 - [SlashData Developer Nation](https://www.slashdata.co/developer-nation) - Global developer population and platform trend research.
+- [State of HTML](https://stateofhtml.com) - Annual survey measuring adoption of modern HTML platform features.
+- [CNCF Annual Survey](https://www.cncf.io/reports/cncf-annual-survey-2023) - Community report tracking cloud native tool and platform adoption.
 
 ## Developer Communities and Forums
 
@@ -111,25 +124,29 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 
 - [daily.dev Squads](https://docs.daily.dev/docs/squads/creating-your-squad) - Topic and team spaces for sharing developer posts and discussions.
 - [Stack Overflow](https://stackoverflow.com) - Q&A forum for practical programming questions across stacks.
-- [DEV Community](https://dev.to) - Social publishing and discussion platform for software developers.
+- [DEV Community*](https://dev.to) - Social publishing and discussion platform for software developers.
 - [Hashnode](https://hashnode.com) - Developer community platform with articles and team publications.
 - [GitHub Discussions](https://docs.github.com/en/discussions) - Repository-based discussion threads for product and open source communities.
-- [freeCodeCamp Forum](https://forum.freecodecamp.org) - Community forum for coding learners and mentors.
+- [Stack Exchange](https://stackexchange.com) - Network of technical Q&A communities across specialist topics.
 - [Indie Hackers](https://www.indiehackers.com) - Community forum for builders working on software products.
 - [Reddit r/programming](https://www.reddit.com/r/programming) - High-traffic programming link forum with community discussion.
+- [GitHub Community General](https://github.com/orgs/community/discussions/categories/general) - General discussion space for developer platform questions and feedback.
+- [Codewars Kata Collections](https://www.codewars.com/kata) - Browse challenge collections and community-created coding problems.
 
 ## Developer Social Networks
 
 *Professional networks and social platforms built for developers.*
 
-- [app.daily.dev](https://app.daily.dev) - Social feed for following developer content and activity.
+- [daily.dev](https://app.daily.dev) - Social feed for following developer content and activity.
 - [GitHub](https://github.com) - Code hosting network with social discovery around repositories and contributors.
 - [X](https://x.com) - Real-time social network used by many developers to share tooling updates.
-- [Threads](https://www.threads.net) - Social feed platform where developers follow creators and product teams.
+- [Discord](https://discord.com) - Community platform with active developer servers for discussion and collaboration.
 - [Showwcase](https://www.showwcase.com) - Social network centered on developer projects and articles.
 - [Mastodon](https://joinmastodon.org) - Federated social network with active developer instances.
-- [Bluesky](https://bsky.app) - Decentralized social platform with growing technical communities.
+- [Kaggle](https://www.kaggle.com) - Data science community with public notebooks and discussion channels.
 - [GitHub Community Discussions](https://github.com/orgs/community/discussions) - Public discussions on GitHub workflows and developer collaboration.
+- [devRant](https://devrant.com) - Developer-focused social network for short-form discussions and advice.
+- [Hashnode Community](https://hashnode.com/community) - Discovery page for active developer posts and community interaction.
 
 ## Browser Extensions
 
@@ -143,6 +160,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/efknglbfhodbnglkednfgbflelgjlpja) - Formats JSON responses directly in the browser.
 - [Octotree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) - Adds a file tree explorer to GitHub repository pages.
 - [Requestly](https://chromewebstore.google.com/detail/requestly-open-source-htt/mdnleldcmiljblolnjhpnblkcekpdkpa) - Intercepts and modifies HTTP requests for debugging workflows.
+- [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds interface controls for inspecting and modifying page behavior.
+- [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 
 ## Code Editors and IDEs
 
@@ -156,6 +175,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) - Full-featured IDE for JVM and multi-language projects.
 - [WebStorm](https://www.jetbrains.com/webstorm) - JavaScript and TypeScript IDE with integrated tooling support.
 - [Sublime Text](https://www.sublimetext.com) - Lightweight editor optimized for speed and keyboard workflows.
+- [Helix](https://helix-editor.com) - Modal editor with tree-sitter support and modern defaults.
+- [Lapce](https://lapce.dev) - Native editor focused on speed and plugin-based extensibility.
 
 ## AI Coding Assistants
 
@@ -169,6 +190,9 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [Amazon Q Developer](https://aws.amazon.com/q/developer) - Assistant for coding and AWS workflow tasks.
 - [Aider](https://aider.chat) - Terminal-based coding assistant that edits files from chat prompts.
 - [Continue](https://www.continue.dev) - Open source framework for adding assistant workflows to editors.
+- [Codex](https://github.com/openai/codex) - Open source coding agent from OpenAI for terminal-based development tasks.
+- [JetBrains AI Assistant](https://www.jetbrains.com/ai) - Integrated assistant features for JetBrains IDE workflows.
+- [Tabby](https://tabbyml.com) - Open source self-hosted coding assistant for private codebases.
 
 ## Productivity and Workflow Tools
 
@@ -182,6 +206,8 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for persistent and split-session workflows.
 - [Oh My Zsh](https://ohmyz.sh) - Framework for managing shell configuration and plugins.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven developer productivity tasks.
+- [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
+- [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
 
 ## Tool Discovery Platforms
 
@@ -192,22 +218,26 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [DevHunt](https://devhunt.org) - Product discovery community focused on developer tools.
 - [Console](https://console.dev) - Curated discovery feed for new developer tooling.
 - [GitHub Topic: Developer Tools](https://github.com/topics/developer-tools) - Topic index for comparing active developer tool repositories.
-- [GitHub Topic: Open Source](https://github.com/topics/open-source) - Discovery feed for notable open source software projects.
+- [Open Source Guides](https://opensource.guide) - Practical guides for evaluating and contributing to open source projects.
 - [Best of JS](https://bestofjs.org) - JavaScript project discovery index ranked by activity and popularity.
 - [GitHub Trending](https://github.com/trending) - Daily and weekly list of repositories gaining momentum.
+- [GitHub Explore](https://github.com/explore) - Curated collections for finding notable projects and emerging topics.
+- [Track Awesome List](https://www.trackawesomelist.com) - Index of updated awesome lists for ongoing resource discovery.
 
 ## Job Boards and Career Platforms
 
 *Platforms for finding developer jobs, from junior roles to senior remote positions.*
 
-- [GitHub Topic: Jobs](https://github.com/topics/jobs) - Aggregated repositories and resources related to software hiring.
+- [Wellfound](https://wellfound.com) - Startup-focused hiring marketplace for software engineering roles.
 - [Arc](https://arc.dev) - Developer hiring platform with remote and contract opportunities.
-- [GitHub Topic: Remote Work](https://github.com/topics/remote-work) - Remote-oriented resources and job-related tooling references.
+- [No Fluff Jobs](https://nofluffjobs.com) - Engineering-focused job board with transparent salary ranges.
 - [Remote OK](https://remoteok.com) - Remote job aggregator with developer filters.
 - [Built In](https://builtin.com/jobs/dev-engineering) - City-based technology job marketplace.
 - [Built In Remote Developer Jobs](https://builtin.com/jobs/remote/dev-engineering) - Remote engineering role listings across software companies.
 - [Dice](https://www.dice.com) - Technology career marketplace for engineering and IT roles.
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Startup job board for YC-backed companies.
+- [Working Nomads](https://www.workingnomads.com/jobs) - Curated remote job listings with software engineering filters.
+- [Remotive Software Development Jobs](https://remotive.com/remote-jobs/software-dev) - Remote-focused developer job board with role categorization.
 
 ## Developer Profile and Portfolio
 
@@ -222,33 +252,38 @@ Developers stay updated by reading blogs, scanning communities, and hearing abou
 - [WakaTime](https://wakatime.com) - Coding activity tracker for generating measurable work summaries.
 - [GitHub Stars](https://stars.github.com) - Program highlighting developer impact and open source contributions.
 - [Hashnode Portfolio](https://hashnode.com/headless) - Publishing setup for turning technical writing into a public profile.
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator) - Tooling for generating profile README sections and badges.
+- [Shields.io](https://shields.io) - Badge generator commonly used to present activity and project status on profiles.
 
 ## Learning Platforms
 
 *Free and paid platforms for learning to code and building technical depth.*
 
-- [daily.dev Docs](https://docs.daily.dev/docs/intro) - Documentation hub for learning feed setup, personalization, and product features.
-- [freeCodeCamp](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
-- [The Odin Project](https://www.theodinproject.com) - Open curriculum focused on full-stack web development.
-- [Codecademy](https://www.codecademy.com) - Interactive coding lessons across multiple languages.
+- [freeCodeCamp*](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
+- [The Odin Project*](https://www.theodinproject.com) - Open curriculum focused on full-stack web development.
+- [Codecademy*](https://www.codecademy.com) - Interactive coding lessons across multiple languages.
 - [Frontend Masters](https://frontendmasters.com) - Advanced courses taught by working engineers.
 - [Scrimba](https://scrimba.com) - Interactive video courses with editable code in the lesson player.
 - [Coursera Computer Science](https://www.coursera.org/browse/computer-science) - University-backed courses across software topics.
-- [Khan Academy Computing](https://www.khanacademy.org/computing) - Beginner-oriented lessons for programming fundamentals.
+- [Khan Academy Computing*](https://www.khanacademy.org/computing) - Beginner-oriented lessons for programming fundamentals.
 - [Exercism](https://exercism.org) - Practice-driven learning with mentor feedback across languages.
+- [edX Computer Science](https://www.edx.org/learn/computer-science) - Academic and professional courses across core computer science topics.
+- [MIT OpenCourseWare](https://ocw.mit.edu) - Open university course materials for foundational computer science study.
 
 ## Coding Practice and Challenges
 
 *Sites for sharpening your skills and preparing for technical interviews.*
 
-- [Exercism Practice](https://exercism.org/tracks) - Language-specific exercises designed for regular coding practice.
-- [HackerRank](https://www.hackerrank.com) - Programming challenges and skill assessments by domain.
+- [AtCoder](https://atcoder.jp) - Competitive programming contests and problem archives for algorithm practice.
+- [HackerRank*](https://www.hackerrank.com) - Programming challenges and skill assessments by domain.
 - [Codewars](https://www.codewars.com) - Kata-based coding exercises with community solutions.
 - [CodeSignal](https://codesignal.com) - Practice and assessment platform for technical hiring preparation.
 - [Project Euler](https://projecteuler.net) - Mathematical and algorithmic programming challenges.
 - [Advent of Code](https://adventofcode.com) - Annual programming challenge event with daily puzzles.
 - [Topcoder](https://www.topcoder.com) - Competitive programming and challenge platform.
 - [CodeChef](https://www.codechef.com) - Contest-based problem solving platform for algorithm practice.
+- [CodinGame](https://www.codingame.com) - Problem-solving platform with game-style programming challenges.
+- [HackerEarth Challenges](https://www.hackerearth.com/challenges/) - Competitive programming challenges for algorithm practice and ranking.
 
 ## Books
 
