@@ -1,0 +1,117 @@
+name: Maintenance
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+    - cron: "0 9 1 * *"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Run link checker
+        id: lychee
+        continue-on-error: true
+        run: |
+          npx lychee \
+            --verbose \
+            --no-progress \
+            --max-concurrency 8 \
+            --accept 200,429 \
+            --format markdown \
+            README.md > lychee-report.md
+
+      - name: Count dead links
+        id: dead-links
+        run: |
+          if [ "${{ steps.lychee.outcome }}" = "success" ]; then
+            echo "dead_count=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          dead_count=$(awk '/^\s*\[✗\]/{count++} END {print count+0}' lychee-report.md)
+          echo "dead_count=${dead_count:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update dead-link issue
+        if: steps.dead-links.outputs.dead_count != '0'
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require("fs");
+            const title = "Automated dead link report";
+            const report = fs.readFileSync("lychee-report.md", "utf8");
+            const body = [
+              "## Dead links detected",
+              "",
+              `Detected by scheduled maintenance run on ${new Date().toISOString()}.`,
+              "",
+              `Dead links found: ${process.env.DEAD_COUNT}`,
+              "",
+              "### Report",
+              "",
+              report
+            ].join("\n");
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open"
+            });
+
+            const existing = issues.find((issue) => issue.title === title);
+
+            if (existing) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ["type:maintenance", "area:links", "priority:high"]
+              });
+            }
+        env:
+          DEAD_COUNT: ${{ steps.dead-links.outputs.dead_count }}
+
+  monthly-stale-entry-review:
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 9 1 * *')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open monthly stale-entry review issue
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const now = new Date().toISOString().slice(0, 10);
+            const title = `Monthly stale entry review (${now.slice(0, 7)})`;
+            const body = [
+              "## Monthly stale entry review",
+              "",
+              "Review the list for stale entries and open targeted cleanup PRs.",
+              "",
+              "### Checklist",
+              "- [ ] Verify links for recently changed websites.",
+              "- [ ] Remove or replace deprecated entries.",
+              "- [ ] Refresh outdated descriptions.",
+              "- [ ] Re-check category fit for recent additions."
+            ].join("\\n");
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: ["type:maintenance", "priority:medium", "status:triage"]
+            });

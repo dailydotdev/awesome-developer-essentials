@@ -1,0 +1,34 @@
+name: Category proposal
+description: Suggest a new category or reorganization.
+title: "[Category Proposal]: "
+labels:
+  - type:taxonomy
+  - area:categories
+  - status:triage
+body:
+  - type: dropdown
+    id: proposal-type
+    attributes:
+      label: Proposal type
+      options:
+        - Add category
+        - Merge categories
+        - Rename category
+        - Split category
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Current state
+      description: Explain the current structure and problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-change
+    attributes:
+      label: Proposed change
+    validations:
+      required: true

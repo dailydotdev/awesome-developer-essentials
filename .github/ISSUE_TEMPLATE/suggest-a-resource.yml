@@ -1,0 +1,41 @@
+name: Suggest a resource
+description: Propose a new resource for the awesome list.
+title: "[Suggestion]: "
+labels:
+  - type:suggestion
+  - area:content
+  - status:triage
+body:
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource name
+      description: Name of the resource you want to add.
+    validations:
+      required: true
+
+  - type: input
+    id: resource-url
+    attributes:
+      label: Canonical URL
+      description: Direct homepage URL.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Suggested list description
+      description: Use list format: [Name](URL) - Description.
+      placeholder: "[Example](https://example.com) - One-sentence factual description."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this belongs
+      description: Explain scope fit and uniqueness.
+    validations:
+      required: true

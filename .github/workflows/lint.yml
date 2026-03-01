@@ -1,0 +1,39 @@
+name: Lint
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  guard-internal-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Block internal planning files
+        run: |
+          if [ -f "PLAN.md" ] || [ -f "PROMOTION.md" ]; then
+            echo "Internal planning files must not be committed."
+            echo "Remove PLAN.md and PROMOTION.md from git."
+            exit 1
+          fi
+
+  awesome-lint:
+    needs: guard-internal-files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+
+      - name: Run awesome-lint
+        run: npx awesome-lint

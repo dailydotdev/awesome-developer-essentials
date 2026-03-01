@@ -1,0 +1,42 @@
+- name: type:suggestion
+  color: "0E8A16"
+  description: New resource suggestions.
+- name: type:bug
+  color: "D73A4A"
+  description: Broken links, factual errors, or regressions.
+- name: type:taxonomy
+  color: "1D76DB"
+  description: Category structure changes.
+- name: type:maintenance
+  color: "6F42C1"
+  description: Recurring upkeep work.
+
+- name: area:links
+  color: "5319E7"
+  description: URL and link-quality tasks.
+- name: area:categories
+  color: "0E8A16"
+  description: Category naming and placement tasks.
+- name: area:content
+  color: "FBCA04"
+  description: Description and editorial tasks.
+
+- name: status:triage
+  color: "BFD4F2"
+  description: Needs maintainer review.
+- name: status:needs-info
+  color: "D4C5F9"
+  description: Missing required details.
+- name: status:ready
+  color: "0E8A16"
+  description: Ready for implementation.
+
+- name: priority:high
+  color: "B60205"
+  description: Time-sensitive quality work.
+- name: priority:medium
+  color: "FBCA04"
+  description: Important improvements.
+- name: priority:low
+  color: "C2E0C6"
+  description: Nice-to-have tasks.
