@@ -16,22 +16,26 @@ Entries marked with `*` are especially beginner-friendly.
 - [Developer Surveys and Trend Reports](#developer-surveys-and-trend-reports)
 - [Developer Communities and Forums](#developer-communities-and-forums)
 - [Developer Social Networks](#developer-social-networks)
+- [Reference and Documentation](#reference-and-documentation)
 - [Browser Extensions](#browser-extensions)
 - [Code Editors and IDEs](#code-editors-and-ides)
 - [AI Coding Assistants](#ai-coding-assistants)
 - [Productivity and Workflow Tools](#productivity-and-workflow-tools)
+- [API Tools and Testing](#api-tools-and-testing)
 - [Tool Discovery Platforms](#tool-discovery-platforms)
-- [Job Boards and Career Platforms](#job-boards-and-career-platforms)
-- [Developer Profile and Portfolio](#developer-profile-and-portfolio)
+- [System Design](#system-design)
 - [Learning Platforms](#learning-platforms)
 - [Coding Practice and Challenges](#coding-practice-and-challenges)
+- [Contributing to Open Source](#contributing-to-open-source)
+- [Job Boards and Career Platforms](#job-boards-and-career-platforms)
+- [Developer Profile and Portfolio](#developer-profile-and-portfolio)
 - [Books](#books)
 - [See Also](#see-also)
 - [Last Verified](#last-verified)
 
 ## News Aggregators and Feeds
 
-*Platforms that aggregate developer news so you can stay updated without checking dozens of sites.*
+*Where to scan developer news without opening dozens of tabs.*
 
 - [daily.dev*](https://daily.dev) - Personalized developer news feed that ranks stories by your interests.
 - [Hacker News](https://news.ycombinator.com) - Link and discussion forum about software, startups, and computing.
@@ -42,19 +46,24 @@ Entries marked with `*` are especially beginner-friendly.
 - [Refind](https://refind.com) - Recommends articles based on your reading history.
 - [InfoQ News](https://www.infoq.com/news) - Engineering news covering architecture, DevOps, and platform topics.
 - [Smashing Magazine](https://www.smashingmagazine.com) - Publication with frequent frontend and web platform updates.
+- [DZone](https://dzone.com) - Developer news, tutorials, and reference cards across Java, DevOps, and cloud topics.
 
 ## Newsletters
 
-*Newsletters that deliver programming news, tool releases, and engineering insights to your inbox.*
+*Newsletters that land in your inbox instead of waiting for you to remember to check.*
 
 - [TLDR](https://tldr.tech) - Daily digest of software, startup, and engineering updates.
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com) - Gergely Orosz's newsletter on engineering careers, big tech culture, and what senior engineers actually think about.
 - [JavaScript Weekly](https://javascriptweekly.com) - Weekly roundup covering JavaScript ecosystem changes.
 - [Frontend Focus](https://frontendfoc.us) - Weekly frontend newsletter covering CSS, JavaScript, and tooling.
 - [Bytes](https://bytes.dev) - JavaScript newsletter with practical links and commentary.
+- [Pointer](https://www.pointer.io) - Weekly links for senior engineers and engineering leaders, skewed toward architecture and people management.
 - [Changelog News](https://changelog.com/news) - Weekly open source and developer tooling highlights.
+- [Software Lead Weekly](https://softwareleadweekly.com) - Weekly links on engineering leadership, team culture, and organizational patterns.
 - [Python Weekly](https://www.pythonweekly.com) - Weekly collection of Python articles and releases.
 - [Golang Weekly](https://golangweekly.com) - Weekly digest of Go ecosystem updates and resources.
 - [Quastor](https://www.quastor.org) - Engineering newsletter covering backend and system design topics.
+- [This Week in Rust](https://this-week-in-rust.org) - Community-run weekly roundup of news, blog posts, and crate releases from the Rust ecosystem.
 - [Node Weekly](https://nodeweekly.com) - Weekly digest covering Node.js releases and ecosystem news.
 - [React Status](https://react.statuscode.com) - Weekly updates on React and adjacent frontend tooling.
 
@@ -62,13 +71,18 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Blogs worth following for technical writing and strong opinions.*
 
+- [Paul Graham](https://paulgraham.com) - Essays on software, startups, and the craft of programming from the YC co-founder; some of the most-linked writing in tech.
+- [Joel on Software](https://www.joelonsoftware.com) - Joel Spolsky's essays on software development, product thinking, and hiring, written 2000–2016 and still widely read.
 - [Martin Fowler](https://martinfowler.com) - Essays on software architecture, refactoring, and engineering practices.
 - [Julia Evans](https://jvns.ca) - Practical articles that explain systems and debugging topics.
 - [Dan Luu](https://danluu.com) - Long-form writing on engineering decisions and software trade-offs.
+- [Patrick McKenzie](https://www.kalzumeus.com) - Essays on software business, pricing, and how engineering intersects with money.
 - [Josh W. Comeau](https://www.joshwcomeau.com) - Frontend tutorials on how browsers, CSS, and rendering actually work.
 - [Simon Willison's Weblog](https://simonwillison.net) - Notes on developer tooling, data workflows, and AI-assisted coding.
 - [Overreacted](https://overreacted.io) - Articles on React, JavaScript, and software thinking patterns.
+- [Will Larson](https://lethain.com) - Writing on engineering leadership, staff+ career paths, and infrastructure strategy.
 - [Coding Horror](https://blog.codinghorror.com) - Commentary on software development culture and product building.
+- [Hillel Wayne](https://www.hillelwayne.com) - Careful writing on software correctness, formal verification, and testing.
 - [Troy Hunt](https://www.troyhunt.com) - Security writing for developers and technology teams.
 - [Kent C. Dodds](https://kentcdodds.com/blog) - Tutorials and essays on JavaScript testing, React, and workflow.
 - [Addy Osmani](https://addyosmani.com/blog) - Performance and web engineering guidance from Chrome ecosystem work.
@@ -77,12 +91,17 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Engineering blogs from teams building and operating systems at scale.*
 
+- [Netflix TechBlog](https://netflixtechblog.com) - Engineering posts on distributed systems, chaos engineering, and streaming infrastructure.
 - [Airbnb Engineering & Data Science](https://airbnb.tech) - Engineering articles on infrastructure, data, and product systems.
+- [Meta Engineering](https://engineering.fb.com) - Engineering posts from Facebook/Meta covering AI infrastructure, open source projects, and systems at scale.
 - [Stripe Engineering](https://stripe.com/blog/engineering) - Architecture and product infrastructure posts from payment systems teams.
 - [Cloudflare Blog](https://blog.cloudflare.com) - Technical posts on networking, performance, and web platform security.
+- [Spotify Engineering](https://engineering.atspotify.com) - Engineering posts on audio systems, data infrastructure, and the Spotify model of team organization.
 - [GitHub Blog Engineering](https://github.blog/category/engineering) - Articles about platform architecture and developer workflows.
 - [Shopify Engineering](https://shopify.engineering) - Lessons from building and operating commerce infrastructure.
+- [Google Developer Blog](https://developers.googleblog.com) - Google's developer-facing engineering blog covering APIs, tooling, and major platform releases.
 - [Slack Engineering](https://slack.engineering) - Writing on distributed systems and internal developer tooling.
+- [Discord Engineering](https://discord.com/blog) - Engineering posts from Discord, including widely-read pieces on Rust, Elixir, and real-time infrastructure.
 - [Datadog Engineering](https://www.datadoghq.com/blog/engineering) - Monitoring and platform engineering case studies.
 - [LinkedIn Engineering](https://engineering.linkedin.com) - Engineering posts on scaling systems and platform development.
 - [CNCF Blog](https://www.cncf.io/blog) - Cloud native engineering updates from maintainers and contributors.
@@ -97,7 +116,11 @@ Entries marked with `*` are especially beginner-friendly.
 - [The Changelog Podcast](https://changelog.com/podcast) - Conversations with open source maintainers and builders.
 - [JS Party](https://changelog.com/jsparty) - Panel podcast covering JavaScript ecosystem developments.
 - [Fireship](https://www.youtube.com/@Fireship) - Short videos summarizing frameworks, tools, and engineering concepts.
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo) - Visual explanations of system design concepts and architecture patterns by Alex Xu.
+- [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - Tutorials on Kubernetes, Docker, and cloud-native tooling.
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) - Streams and clips about developer productivity and tooling choices.
+- [NeetCode](https://www.youtube.com/@NeetCode) - Clear explanations of algorithms and data structures oriented toward technical interviews.
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp) - Full-length programming courses across dozens of languages and frameworks.
 - [Traversy Media](https://www.youtube.com/@TraversyMedia) - Tutorials on web development stacks and workflows.
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Concept-first videos on frontend and backend development.
 - [The Net Ninja](https://www.youtube.com/@NetNinja) - Structured tutorials on full-stack and framework fundamentals.
@@ -142,8 +165,20 @@ Entries marked with `*` are especially beginner-friendly.
 - [Discord](https://discord.com) - Community platform with active developer servers for discussion and collaboration.
 - [Showwcase](https://www.showwcase.com) - Social network centered on developer projects and articles.
 - [Mastodon](https://joinmastodon.org) - Federated social network with active developer instances.
-- [Kaggle](https://www.kaggle.com) - Data science community with public notebooks and discussion channels.
 - [devRant](https://devrant.com) - Social network for short-form developer discussions and advice.
+
+## Reference and Documentation
+
+*Reference material you reach for in the middle of building something.*
+
+- [MDN Web Docs](https://developer.mozilla.org) - Mozilla's authoritative reference for HTML, CSS, JavaScript, and Web APIs.
+- [DevDocs](https://devdocs.io) - Unified, searchable browser for 700+ API documentation sets with offline support.
+- [roadmap.sh](https://roadmap.sh) - Community-built visual learning paths for frontend, backend, DevOps, and 20+ other roles.
+- [TLDR Pages](https://tldr.sh) - Simplified, community-maintained man pages with practical command examples.
+- [Can I Use](https://caniuse.com) - Browser compatibility tables for HTML, CSS, and JavaScript APIs across all major browsers.
+- [devhints.io](https://devhints.io) - Printable developer cheat sheets for tools, languages, and frameworks.
+- [QuickRef.ME](https://quickref.me) - Community cheat sheets for 200+ languages and tools in a scannable format.
+- [cheat.sh](https://cheat.sh) - Unified cheat sheet server accessible from the terminal via curl or browser.
 
 ## Browser Extensions
 
@@ -169,18 +204,23 @@ Entries marked with `*` are especially beginner-friendly.
 - [Zed](https://zed.dev) - Fast collaborative editor built for low-latency editing.
 - [Neovim](https://neovim.io) - Modern Vim-based editor with plugin-driven customization.
 - [Vim](https://www.vim.org) - Modal text editor with a large ecosystem and long-term stability.
+- [Emacs](https://www.gnu.org/software/emacs/) - Extensible, Lisp-powered editor with decades of community-built tooling.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) - Full-featured IDE for JVM and multi-language projects.
 - [WebStorm](https://www.jetbrains.com/webstorm) - JavaScript and TypeScript IDE with integrated tooling support.
+- [GitHub Codespaces](https://github.com/features/codespaces) - Cloud-hosted development environments tied directly to GitHub repositories.
+- [Gitpod](https://www.gitpod.io) - Automated cloud development environments that spin up from any Git URL.
 - [Sublime Text](https://www.sublimetext.com) - Lightweight editor optimized for speed and keyboard workflows.
 - [Helix](https://helix-editor.com) - Modal editor with tree-sitter support and modern defaults.
-- [Lapce](https://lapce.dev) - Native editor built for speed with plugin-based extensibility.
 
 ## AI Coding Assistants
 
 *AI tools that write, review, and debug code alongside you.*
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant integrated into common editors and IDEs.
+- [Windsurf](https://windsurf.com) - AI-native IDE with an agentic flow that edits across files and reasons about your codebase.
 - [Claude Code](https://www.anthropic.com/claude-code) - Agentic coding tool for repository-level development tasks.
+- [Bolt.new](https://bolt.new) - Browser-based AI agent that generates, runs, and deploys full-stack apps from a prompt.
+- [v0](https://v0.dev) - Vercel's AI tool that generates production-ready React components from descriptions.
 - [Codeium](https://codeium.com) - Completion and chat assistant for multiple editors.
 - [Tabnine](https://www.tabnine.com) - Code completion assistant with privacy-first team deployment.
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - Codebase-aware assistant for search, edits, and refactors.
@@ -200,11 +240,27 @@ Entries marked with `*` are especially beginner-friendly.
 - [Obsidian](https://obsidian.md) - Markdown-first personal knowledge base for technical notes.
 - [Raycast](https://www.raycast.com) - Command launcher for automating macOS developer workflows.
 - [Warp](https://www.warp.dev) - Terminal with modern command UX and collaboration features.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder that integrates with shell history, file navigation, and any list.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast grep alternative that respects `.gitignore`; used inside VS Code's search engine.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI for Git that makes staging, rebasing, and branching faster.
+- [Starship](https://starship.rs) - Customizable cross-shell prompt with Git status, language context, and more.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for persistent and split-session workflows.
 - [Oh My Zsh](https://ohmyz.sh) - Framework for managing shell configuration and plugins.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
+
+## API Tools and Testing
+
+*Tools for building, testing, and documenting APIs.*
+
+- [Postman](https://www.postman.com) - Industry-standard platform for designing, testing, and documenting APIs.
+- [Bruno](https://www.usebruno.com) - Offline-first, open source API client that stores collections as plain files in your Git repo.
+- [Hoppscotch](https://hoppscotch.io) - Open source, browser-based API testing tool with REST, GraphQL, and WebSocket support.
+- [Insomnia](https://insomnia.rest) - API client supporting REST, GraphQL, gRPC, and SOAP with environment and team management.
+- [HTTPie](https://httpie.io) - Human-friendly command-line HTTP client with a clean syntax for API requests.
+- [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
+- [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
 
 ## Tool Discovery Platforms
 
@@ -215,17 +271,80 @@ Entries marked with `*` are especially beginner-friendly.
 - [DevHunt](https://devhunt.org) - Product discovery community for developer tools.
 - [Console](https://console.dev) - Weekly feed highlighting new developer tools.
 - [Libraries.io](https://libraries.io) - Open source package discovery and dependency monitoring across ecosystems.
-- [Open Source Guides](https://opensource.guide) - Practical guides for evaluating and contributing to open source projects.
 - [Best of JS](https://bestofjs.org) - JavaScript project discovery index ranked by activity and popularity.
 - [GitHub Trending](https://github.com/trending) - Daily and weekly list of repositories gaining momentum.
 - [GitHub Explore](https://github.com/explore) - Collections of notable projects and emerging topics.
 - [Track Awesome List](https://www.trackawesomelist.com) - Index of updated awesome lists for ongoing resource discovery.
 
+## System Design
+
+*Resources for understanding how large-scale systems are architected and built.*
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - The most-starred GitHub repository for learning system design, covering scalability, databases, and architecture patterns.
+- [ByteByteGo](https://bytebytego.com) - Alex Xu's visual explanations of system design concepts, paired with the System Design Interview book series.
+- [High Scalability](http://highscalability.com) - Long-running blog documenting real architecture decisions at companies like YouTube, Twitter, and Amazon.
+- [Architecture Notes](https://architecturenotes.co) - Concise, illustrated explanations of distributed systems concepts like databases, caches, and queues.
+- [The System Design Newsletter](https://newsletter.systemdesign.one) - Weekly newsletter breaking down distributed systems and architecture patterns with diagrams.
+- [AWS Architecture Center](https://aws.amazon.com/architecture/) - Reference architectures and best practices for common system design patterns on AWS.
+
+## Learning Platforms
+
+*Free and paid platforms for learning to code or going deeper on what you already know.*
+
+- [CS50](https://cs50.harvard.edu) - Harvard's free introduction to computer science; one of the most-watched CS courses ever made.
+- [freeCodeCamp*](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
+- [The Odin Project*](https://www.theodinproject.com) - Open curriculum covering full-stack web development.
+- [Codecademy*](https://www.codecademy.com) - Interactive coding lessons across multiple languages.
+- [Khan Academy Computing*](https://www.khanacademy.org/computing) - Beginner-oriented lessons for programming fundamentals.
+- [fast.ai](https://fast.ai) - Free practical deep learning course that has introduced thousands of developers to modern ML techniques.
+- [Kaggle](https://www.kaggle.com) - Data science learning platform with structured courses, public datasets, and ML competitions.
+- [Frontend Masters](https://frontendmasters.com) - Advanced courses taught by working engineers.
+- [Scrimba](https://scrimba.com) - Interactive video courses with editable code in the lesson player.
+- [O'Reilly Learning](https://www.oreilly.com/online-learning/) - Technical books and live courses from industry practitioners and recognized authors.
+- [Udemy](https://www.udemy.com) - Large marketplace for developer courses across most languages, tools, and frameworks.
+- [Coursera Computer Science](https://www.coursera.org/browse/computer-science) - University-backed courses across software topics.
+- [Exercism](https://exercism.org) - Practice-driven learning with mentor feedback across languages.
+- [edX Computer Science](https://www.edx.org/learn/computer-science) - Academic and professional courses across core computer science topics.
+- [MIT OpenCourseWare](https://ocw.mit.edu) - Open university course materials for foundational computer science study.
+
+## Coding Practice and Challenges
+
+*Sites for sharpening your skills and preparing for technical interviews.*
+
+- [LeetCode](https://leetcode.com) - The dominant platform for technical interview prep with 3,000+ problems and company-specific practice sets.
+- [NeetCode](https://neetcode.io) - Curated LeetCode problem roadmap with video explanations, widely used for structured interview prep.
+- [Codeforces](https://codeforces.com) - The most active competitive programming platform, hosting frequent contests and a large problem archive.
+- [AtCoder](https://atcoder.jp) - Competitive programming contests and problem archives for algorithm practice.
+- [HackerRank*](https://www.hackerrank.com) - Programming challenges and skill assessments by domain.
+- [Codewars](https://www.codewars.com) - Kata-based coding exercises with community solutions.
+- [CodeSignal](https://codesignal.com) - Practice and assessment platform for technical hiring preparation.
+- [CSES Problem Set](https://cses.fi/problemset/) - Carefully curated algorithmic problem set widely used in competitive programming education.
+- [Project Euler](https://projecteuler.net) - Mathematical and algorithmic programming challenges.
+- [Advent of Code](https://adventofcode.com) - Annual programming challenge event with daily puzzles each December.
+- [Topcoder](https://www.topcoder.com) - Competitive programming and challenge platform.
+- [CodeChef](https://www.codechef.com) - Contest-based problem solving platform for algorithm practice.
+- [CodinGame](https://www.codingame.com) - Problem-solving platform with game-style programming challenges.
+
+## Contributing to Open Source
+
+*Where to find your first (or next) open source contribution.*
+
+- [Good First Issue](https://goodfirstissue.dev) - Aggregates beginner-friendly issues from popular repositories, filterable by programming language.
+- [First Contributions](https://firstcontributions.github.io) - Step-by-step guide and practice repository for making your first open source pull request.
+- [Up For Grabs](https://up-for-grabs.net) - Searchable directory of projects with tasks specifically tagged for new contributors.
+- [CodeTriage](https://www.codetriage.com) - Subscribe to get open source issues delivered to your inbox daily.
+- [OSS Insight](https://ossinsight.io) - Real-time GitHub analytics showing trending projects, language trends, and contributor activity.
+- [Open Source Guides](https://opensource.guide) - GitHub's practical guides for starting, maintaining, and contributing to open source projects.
+- [Open Source Friday](https://opensourcefriday.com) - GitHub's initiative encouraging developers to contribute to open source every Friday.
+
 ## Job Boards and Career Platforms
 
-*Where to look for your next developer job.*
+*Where to look for your next developer job and research compensation.*
 
+- [levels.fyi](https://www.levels.fyi) - Crowdsourced salary and compensation data for tech companies; the most trusted benchmarking resource for developer pay.
 - [Wellfound](https://wellfound.com) - Startup-focused hiring marketplace for software engineering roles.
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional job network for both active and passive job seeking.
+- [Glassdoor](https://www.glassdoor.com) - Company reviews, salary insights, and job listings for researching employers before applying.
 - [Arc](https://arc.dev) - Developer hiring platform with remote and contract opportunities.
 - [No Fluff Jobs](https://nofluffjobs.com) - Job board for engineers with transparent salary ranges.
 - [Remote OK](https://remoteok.com) - Remote job aggregator with developer filters.
@@ -233,7 +352,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [Hired](https://hired.com) - Developer job marketplace where companies apply to candidates.
 - [Dice](https://www.dice.com) - Technology career marketplace for engineering and IT roles.
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Startup job board for YC-backed companies.
-- [Working Nomads](https://www.workingnomads.com/jobs) - Remote job listings with software engineering filters.
 - [Remotive Software Development Jobs](https://remotive.com/remote-jobs/software-dev) - Remote developer job board with role categorization.
 
 ## Developer Profile and Portfolio
@@ -252,46 +370,21 @@ Entries marked with `*` are especially beginner-friendly.
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator) - Tooling for generating profile README sections and badges.
 - [Shields.io](https://shields.io) - Badge generator commonly used to present activity and project status on profiles.
 
-## Learning Platforms
-
-*Free and paid platforms for learning to code or going deeper on what you already know.*
-
-- [freeCodeCamp*](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
-- [The Odin Project*](https://www.theodinproject.com) - Open curriculum covering full-stack web development.
-- [Codecademy*](https://www.codecademy.com) - Interactive coding lessons across multiple languages.
-- [Frontend Masters](https://frontendmasters.com) - Advanced courses taught by working engineers.
-- [Scrimba](https://scrimba.com) - Interactive video courses with editable code in the lesson player.
-- [Coursera Computer Science](https://www.coursera.org/browse/computer-science) - University-backed courses across software topics.
-- [Khan Academy Computing*](https://www.khanacademy.org/computing) - Beginner-oriented lessons for programming fundamentals.
-- [Exercism](https://exercism.org) - Practice-driven learning with mentor feedback across languages.
-- [edX Computer Science](https://www.edx.org/learn/computer-science) - Academic and professional courses across core computer science topics.
-- [MIT OpenCourseWare](https://ocw.mit.edu) - Open university course materials for foundational computer science study.
-
-## Coding Practice and Challenges
-
-*Sites for sharpening your skills and preparing for technical interviews.*
-
-- [AtCoder](https://atcoder.jp) - Competitive programming contests and problem archives for algorithm practice.
-- [HackerRank*](https://www.hackerrank.com) - Programming challenges and skill assessments by domain.
-- [Codewars](https://www.codewars.com) - Kata-based coding exercises with community solutions.
-- [CodeSignal](https://codesignal.com) - Practice and assessment platform for technical hiring preparation.
-- [Project Euler](https://projecteuler.net) - Mathematical and algorithmic programming challenges.
-- [Advent of Code](https://adventofcode.com) - Annual programming challenge event with daily puzzles.
-- [Topcoder](https://www.topcoder.com) - Competitive programming and challenge platform.
-- [CodeChef](https://www.codechef.com) - Contest-based problem solving platform for algorithm practice.
-- [CodinGame](https://www.codingame.com) - Problem-solving platform with game-style programming challenges.
-- [HackerEarth Challenges](https://www.hackerearth.com/challenges/) - Competitive programming challenges for algorithm practice and ranking.
-
 ## Books
 
 *Books worth reading if you want to go beyond tutorials.*
 
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition) - Practical guidance for long-term software craftsmanship.
-- [Clean Code](https://www.pearson.com/en-us/subject-catalog/p/clean-code/P200000009529/9780136083238) - Principles for writing readable and maintainable codebases.
+- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/) - The authoritative reference on algorithms and data structures, used in CS programs worldwide.
 - [Designing Data-Intensive Applications](https://dataintensive.net) - Foundations for data systems and distributed architecture decisions.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson's deep-dive JavaScript series, free to read on GitHub.
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262543231/) - MIT's foundational textbook on programming fundamentals and computational thinking; free to read online.
+- [Clean Code](https://www.pearson.com/en-us/subject-catalog/p/clean-code/P200000009529/9780136083238) - Principles for writing readable and maintainable codebases.
+- [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) - Robert C. Martin's principles for structuring software systems for long-term maintainability.
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms-second-edition) - Illustrated, beginner-friendly introduction to algorithms and data structures.
 - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php) - Approaches for reducing complexity in software design.
 - [Staff Engineer](https://staffeng.com/book) - Career guidance for technical leadership paths.
-- [The Missing README](https://www.oreilly.com/library/view/the-missing-readme/9781098123703) - Career and communication handbook for software engineers.
+- [The Missing README](https://www.oreilly.com/library/view/the-missing-readme/9781098123703/) - Career and communication handbook for software engineers.
 - [Site Reliability Engineering](https://sre.google/books) - Practices for reliability and operations at scale.
 - [Refactoring](https://martinfowler.com/books/refactoring.html) - Techniques for improving code structure safely.
 
