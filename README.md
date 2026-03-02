@@ -15,7 +15,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [Podcasts and YouTube Channels](#podcasts-and-youtube-channels)
 - [Developer Surveys and Trend Reports](#developer-surveys-and-trend-reports)
 - [Developer Communities and Forums](#developer-communities-and-forums)
-- [Developer Social Networks](#developer-social-networks)
 - [Reference and Documentation](#reference-and-documentation)
 - [Browser Extensions](#browser-extensions)
 - [Code Editors and IDEs](#code-editors-and-ides)
@@ -152,17 +151,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [Indie Hackers](https://www.indiehackers.com) - Community forum for builders working on software products.
 - [Reddit r/programming](https://www.reddit.com/r/programming) - High-traffic programming link forum with community discussion.
 - [GitHub Community](https://github.com/orgs/community/discussions) - Discussion space for developer platform questions and feedback.
-
-## Developer Social Networks
-
-*Social platforms where developers share work and follow each other.*
-
-- [GitHub](https://github.com) - Code hosting network with social discovery around repositories and contributors.
-- [X](https://x.com) - Real-time social network used by many developers to share tooling updates.
-- [Discord](https://discord.com) - Community platform with active developer servers for discussion and collaboration.
-- [Showwcase](https://www.showwcase.com) - Social network centered on developer projects and articles.
-- [Mastodon](https://joinmastodon.org) - Federated social network with active developer instances.
-- [devRant](https://devrant.com) - Social network for short-form developer discussions and advice.
 
 ## Reference and Documentation
 
