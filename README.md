@@ -71,6 +71,9 @@ Entries marked with `*` are especially beginner-friendly.
 
 - [Joel on Software](https://www.joelonsoftware.com) - Joel Spolsky's essays on software development, product thinking, and hiring, written 2000–2016 and still widely read.
 - [Martin Fowler](https://martinfowler.com) - Essays on software architecture, refactoring, and engineering practices.
+- [Stratechery](https://stratechery.com) - Ben Thompson's deep analysis of the business, strategy, and impact of technology.
+- [Krebs on Security](https://krebsonsecurity.com) - Investigative reporting on cybercrime, security breaches, and the digital underground.
+- [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Raymond Chen's legendary blog on Windows internals, API history, and engineering wisdom.
 - [Julia Evans](https://jvns.ca) - Practical articles that explain systems and debugging topics.
 - [Dan Luu](https://danluu.com) - Long-form writing on engineering decisions and software trade-offs.
 - [Patrick McKenzie](https://www.kalzumeus.com) - Essays on software business, pricing, and how engineering intersects with money.
@@ -90,10 +93,13 @@ Entries marked with `*` are especially beginner-friendly.
 
 - [Netflix TechBlog](https://netflixtechblog.com) - Engineering posts on distributed systems, chaos engineering, and streaming infrastructure.
 - [Airbnb Engineering & Data Science](https://airbnb.tech) - Engineering articles on infrastructure, data, and product systems.
+- [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/) - Reference architectures, patterns, and best practices for building on the cloud.
+- [Uber Engineering](https://www.uber.com/blog/engineering/) - Deep dives into high-scale technologies, geo-indexing, and distributed systems.
 - [Meta Engineering](https://engineering.fb.com) - Engineering posts from Facebook/Meta covering AI infrastructure, open source projects, and systems at scale.
 - [Stripe Engineering](https://stripe.com/blog/engineering) - Architecture and product infrastructure posts from payment systems teams.
 - [Cloudflare Blog](https://blog.cloudflare.com) - Technical posts on networking, performance, and web platform security.
 - [Spotify Engineering](https://engineering.atspotify.com) - Engineering posts on audio systems, data infrastructure, and the Spotify model of team organization.
+- [Dropbox Tech](https://dropbox.tech) - Detailed posts on storage efficiency, sync engines, and core infrastructure internals.
 - [GitHub Blog Engineering](https://github.blog/category/engineering) - Articles about platform architecture and developer workflows.
 - [Shopify Engineering](https://shopify.engineering) - Lessons from building and operating commerce infrastructure.
 - [Google Developer Blog](https://developers.googleblog.com) - Google's developer-facing engineering blog covering APIs, tooling, and major platform releases.
@@ -112,6 +118,9 @@ Entries marked with `*` are especially beginner-friendly.
 - [Software Engineering Daily](https://softwareengineeringdaily.com) - Interview podcast covering engineering systems and organizations.
 - [The Changelog Podcast](https://changelog.com/podcast) - Conversations with open source maintainers and builders.
 - [JS Party](https://changelog.com/jsparty) - Panel podcast covering JavaScript ecosystem developments.
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Academic videos on CS fundamentals like hashing, encryption, and logic.
+- [CoRecursive](https://corecursive.com) - Interviews focusing on the narrative stories behind software engineering challenges.
+- [Hussein Nasser](https://www.youtube.com/@HusseinNasser-software-engineering) - Deep dives into backend engineering, networking protocols, and database internals.
 - [Fireship](https://www.youtube.com/@Fireship) - Short videos summarizing frameworks, tools, and engineering concepts.
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo) - Visual explanations of system design concepts and architecture patterns by Alex Xu.
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - Tutorials on Kubernetes, Docker, and cloud-native tooling.
@@ -157,6 +166,7 @@ Entries marked with `*` are especially beginner-friendly.
 *Reference material you reach for in the middle of building something.*
 
 - [MDN Web Docs](https://developer.mozilla.org) - Mozilla's authoritative reference for HTML, CSS, JavaScript, and Web APIs.
+- [web.dev](https://web.dev) - Google's guidance on modern web capabilities, performance, and accessibility.
 - [DevDocs](https://devdocs.io) - Unified, searchable browser for 700+ API documentation sets with offline support.
 - [roadmap.sh](https://roadmap.sh) - Community-built visual learning paths for frontend, backend, DevOps, and 20+ other roles.
 - [TLDR Pages](https://tldr.sh) - Simplified, community-maintained man pages with practical command examples.
@@ -220,13 +230,18 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Daily tools for staying organized, managing tasks, and working faster in the terminal.*
 
+- [Docker](https://www.docker.com) - Platform for developing, shipping, and running applications in containers.
+- [Homebrew](https://brew.sh) - The missing package manager for macOS (and Linux).
 - [Linear](https://linear.app) - Issue tracking system for engineering planning and delivery.
 - [Notion](https://www.notion.so) - Workspace for project docs, plans, and team notes.
 - [Obsidian](https://obsidian.md) - Markdown-first personal knowledge base for technical notes.
+- [Excalidraw](https://excalidraw.com) - Virtual whiteboard for sketching hand-drawn-like diagrams.
 - [Raycast](https://www.raycast.com) - Command launcher for automating macOS developer workflows.
 - [Warp](https://www.warp.dev) - Terminal with modern command UX and collaboration features.
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder that integrates with shell history, file navigation, and any list.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast grep alternative that respects `.gitignore`; used inside VS Code's search engine.
+- [jq](https://jqlang.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+- [ngrok](https://ngrok.com) - Instantly create a public URL for a website running on your local machine.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI for Git that makes staging, rebasing, and branching faster.
 - [Starship](https://starship.rs) - Customizable cross-shell prompt with Git status, language context, and more.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for persistent and split-session workflows.
@@ -240,6 +255,7 @@ Entries marked with `*` are especially beginner-friendly.
 *Tools for building, testing, and documenting APIs.*
 
 - [Postman](https://www.postman.com) - Industry-standard platform for designing, testing, and documenting APIs.
+- [jwt.io](https://jwt.io) - Debugger for decoding, verifying, and generating JSON Web Tokens.
 - [Bruno](https://www.usebruno.com) - Offline-first, open source API client that stores collections as plain files in your Git repo.
 - [Hoppscotch](https://hoppscotch.io) - Open source, browser-based API testing tool with REST, GraphQL, and WebSocket support.
 - [Insomnia](https://insomnia.rest) - API client supporting REST, GraphQL, gRPC, and SOAP with environment and team management.
@@ -265,7 +281,10 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Resources for understanding how large-scale systems are architected and built.*
 
+- [The Twelve-Factor App](https://12factor.net) - A methodology for building portable, scalable, and maintainable software-as-a-service apps.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - The most-starred GitHub repository for learning system design, covering scalability, databases, and architecture patterns.
+- [Refactoring.guru](https://refactoring.guru) - Interactive guide to design patterns, refactoring techniques, and code smells.
+- [Microservices.io](https://microservices.io) - A pattern language collection for microservices architecture created by Chris Richardson.
 - [ByteByteGo](https://bytebytego.com) - Alex Xu's visual explanations of system design concepts, paired with the System Design Interview book series.
 - [High Scalability](http://highscalability.com) - Long-running blog documenting real architecture decisions at companies like YouTube, Twitter, and Amazon.
 - [Architecture Notes](https://architecturenotes.co) - Concise, illustrated explanations of distributed systems concepts like databases, caches, and queues.
@@ -276,6 +295,8 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Free and paid platforms for learning to code or going deeper on what you already know.*
 
+- [Full Stack Open](https://fullstackopen.com) - Massive, free course from the University of Helsinki on modern web development (React, Redux, Node.js, GraphQL, TypeScript).
+- [AWS Skill Builder](https://skillbuilder.aws) - Amazon's official learning center offering hundreds of free digital courses and hands-on labs.
 - [CS50](https://cs50.harvard.edu) - Harvard's free introduction to computer science; one of the most-watched CS courses ever made.
 - [freeCodeCamp*](https://www.freecodecamp.org) - Free coding curriculum with projects and certifications.
 - [The Odin Project*](https://www.theodinproject.com) - Open curriculum covering full-stack web development.
@@ -360,9 +381,14 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Books worth reading if you want to go beyond tutorials.*
 
+- [Code Complete](https://www.microsoftpressstore.com/store/code-complete-9780735619678) - Comprehensive guide to the practical aspects of software construction and craftsmanship.
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition) - Practical guidance for long-term software craftsmanship.
 - [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/) - The authoritative reference on algorithms and data structures, used in CS programs worldwide.
 - [Designing Data-Intensive Applications](https://dataintensive.net) - Foundations for data systems and distributed architecture decisions.
+- [Domain-Driven Design](https://www.domainlanguage.com/ddd/) - The seminal book on modeling software complexity based on the underlying business domain.
+- [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) - Strategies for understanding, testing, and safely modifying code written without tests.
+- [Accelerate](https://itrevolution.com/book/accelerate/) - The science behind DevOps and high-performing technology organizations (DORA metrics).
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) - Classic essays on software engineering management, famously "adding manpower to a late project makes it later."
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson's deep-dive JavaScript series, free to read on GitHub.
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262543231/) - MIT's foundational textbook on programming fundamentals and computational thinking; free to read online.
 - [Clean Code](https://www.pearson.com/en-us/subject-catalog/p/clean-code/P200000009529/9780136083238) - Principles for writing readable and maintainable codebases.
