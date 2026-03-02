@@ -9,6 +9,7 @@ Entries marked with `*` are especially beginner-friendly.
 ## Contents
 
 - [News Aggregators and Feeds](#news-aggregators-and-feeds)
+- [Developer Publications](#developer-publications)
 - [Newsletters](#newsletters)
 - [Individual Developer Blogs](#individual-developer-blogs)
 - [Company Engineering Blogs](#company-engineering-blogs)
@@ -35,18 +36,26 @@ Entries marked with `*` are especially beginner-friendly.
 
 ## News Aggregators and Feeds
 
-*Where to scan developer news without opening dozens of tabs.*
+*Platforms that surface and rank links from across the web — the content lives elsewhere.*
 
 - [daily.dev*](https://daily.dev) - Personalized developer news feed that ranks stories by your interests.
-- [Hacker News](https://news.ycombinator.com) - Link and discussion forum about software, startups, and computing.
-- [Lobsters](https://lobste.rs) - Community-driven discussion feed covering computing topics.
+- [Hacker News](https://news.ycombinator.com) - Community-submitted links and discussion about software, startups, and computing.
+- [Lobsters](https://lobste.rs) - Community-submitted link feed covering computing topics.
 - [DevURLs](https://devurls.com) - Developer link stream sourced from technical publications.
-- [Echo JS](https://echojs.com) - JavaScript news stream with community voting.
-- [Techmeme](https://www.techmeme.com) - Aggregated technology headlines from multiple publications.
-- [Refind](https://refind.com) - Recommends articles based on your reading history.
-- [InfoQ News](https://www.infoq.com/news) - Engineering news covering architecture, DevOps, and platform topics.
-- [Smashing Magazine](https://www.smashingmagazine.com) - Publication with frequent frontend and web platform updates.
-- [DZone](https://dzone.com) - Developer news, tutorials, and reference cards across Java, DevOps, and cloud topics.
+- [Echo JS](https://echojs.com) - Community-submitted JavaScript links with voting.
+- [Techmeme](https://www.techmeme.com) - Algorithmically aggregated technology headlines from multiple publications.
+- [Refind](https://refind.com) - Recommends articles from around the web based on your reading history.
+- [DZone](https://dzone.com) - Community-contributed developer articles and links across Java, DevOps, and cloud topics.
+
+## Developer Publications
+
+*Sites that write and publish their own original engineering content.*
+
+- [InfoQ](https://www.infoq.com) - Original interviews, news, and articles on software architecture, DevOps, and platform engineering.
+- [Smashing Magazine](https://www.smashingmagazine.com) - Original articles on frontend development, CSS, JavaScript, and web design.
+- [The New Stack](https://thenewstack.io) - Original reporting on cloud-native development, Kubernetes, and platform engineering.
+- [A List Apart](https://alistapart.com) - Long-running publication with original articles on web standards, design, and front-end development.
+- [Ars Technica](https://arstechnica.com) - In-depth original reporting on technology, computing, and software.
 
 ## Newsletters
 
