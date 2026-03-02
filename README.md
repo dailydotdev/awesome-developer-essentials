@@ -50,6 +50,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Newsletters that land in your inbox instead of waiting for you to remember to check.*
 
+- [daily.dev Digest](https://app.daily.dev) - Personalized daily digest of the top developer stories from your feed, delivered in-app and by email.
 - [TLDR](https://tldr.tech) - Daily digest of software, startup, and engineering updates.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com) - Gergely Orosz's newsletter on engineering careers, big tech culture, and what senior engineers actually think about.
 - [JavaScript Weekly](https://javascriptweekly.com) - Weekly roundup covering JavaScript ecosystem changes.
@@ -69,7 +70,6 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Blogs worth following for technical writing and strong opinions.*
 
-- [Paul Graham](https://paulgraham.com) - Essays on software, startups, and the craft of programming from the YC co-founder; some of the most-linked writing in tech.
 - [Joel on Software](https://www.joelonsoftware.com) - Joel Spolsky's essays on software development, product thinking, and hiring, written 2000–2016 and still widely read.
 - [Martin Fowler](https://martinfowler.com) - Essays on software architecture, refactoring, and engineering practices.
 - [Julia Evans](https://jvns.ca) - Practical articles that explain systems and debugging topics.
@@ -157,7 +157,6 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Social platforms where developers share work and follow each other.*
 
-- [daily.dev](https://app.daily.dev) - Social feed for following developer content and activity.
 - [GitHub](https://github.com) - Code hosting network with social discovery around repositories and contributors.
 - [X](https://x.com) - Real-time social network used by many developers to share tooling updates.
 - [Discord](https://discord.com) - Community platform with active developer servers for discussion and collaboration.
@@ -182,7 +181,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Extensions that turn your browser into a developer productivity tool.*
 
-- [daily.dev Chrome Extension](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) - Replaces the new tab page with a personalized developer news feed.
+- [daily.dev Extension](https://api.daily.dev/get) - Browser extension for Chrome, Firefox, and Edge that replaces the new tab page with a personalized developer news feed.
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspects React component trees and state in the browser.
 - [Redux DevTools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Tracks Redux actions and state transitions for debugging.
 - [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Detects technologies used by websites.
@@ -339,6 +338,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Where to look for your next developer job and research compensation.*
 
+- [daily.dev Jobs](https://app.daily.dev/jobs) - Developer job listings surfaced within the daily.dev community, matched to your interests and stack.
 - [levels.fyi](https://www.levels.fyi) - Crowdsourced salary and compensation data for tech companies; the most trusted benchmarking resource for developer pay.
 - [Wellfound](https://wellfound.com) - Startup-focused hiring marketplace for software engineering roles.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional job network for both active and passive job seeking.
