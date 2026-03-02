@@ -9,7 +9,6 @@ Entries marked with `*` are especially beginner-friendly.
 ## Contents
 
 - [News Aggregators and Feeds](#news-aggregators-and-feeds)
-- [Developer Publications](#developer-publications)
 - [Newsletters](#newsletters)
 - [Individual Developer Blogs](#individual-developer-blogs)
 - [Company Engineering Blogs](#company-engineering-blogs)
@@ -46,16 +45,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [Techmeme](https://www.techmeme.com) - Algorithmically aggregated technology headlines from multiple publications.
 - [Refind](https://refind.com) - Recommends articles from around the web based on your reading history.
 - [DZone](https://dzone.com) - Community-contributed developer articles and links across Java, DevOps, and cloud topics.
-
-## Developer Publications
-
-*Sites that write and publish their own original engineering content.*
-
-- [InfoQ](https://www.infoq.com) - Original interviews, news, and articles on software architecture, DevOps, and platform engineering.
-- [Smashing Magazine](https://www.smashingmagazine.com) - Original articles on frontend development, CSS, JavaScript, and web design.
-- [The New Stack](https://thenewstack.io) - Original reporting on cloud-native development, Kubernetes, and platform engineering.
-- [A List Apart](https://alistapart.com) - Long-running publication with original articles on web standards, design, and front-end development.
-- [Ars Technica](https://arstechnica.com) - In-depth original reporting on technology, computing, and software.
 
 ## Newsletters
 
