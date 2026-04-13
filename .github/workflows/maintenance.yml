@@ -41,7 +41,7 @@ jobs:
 
       - name: Open or update dead-link issue
         if: steps.dead-links.outputs.dead_count != '0'
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require("fs");
@@ -91,7 +91,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Open monthly stale-entry review issue
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const now = new Date().toISOString().slice(0, 10);
