@@ -235,6 +235,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Linear](https://linear.app) - Issue tracking system for engineering planning and delivery.
 - [Notion](https://www.notion.so) - Workspace for project docs, plans, and team notes.
 - [Obsidian](https://obsidian.md) - Markdown-first personal knowledge base for technical notes.
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, CSV, or pasted spreadsheet cells into Markdown tables without uploading files.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard for sketching hand-drawn-like diagrams.
 - [Raycast](https://www.raycast.com) - Command launcher for automating macOS developer workflows.
 - [Warp](https://www.warp.dev) - Terminal with modern command UX and collaboration features.
