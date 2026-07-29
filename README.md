@@ -260,6 +260,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Hoppscotch](https://hoppscotch.io) - Open source, browser-based API testing tool with REST, GraphQL, and WebSocket support.
 - [Insomnia](https://insomnia.rest) - API client supporting REST, GraphQL, gRPC, and SOAP with environment and team management.
 - [HTTPie](https://httpie.io) - Human-friendly command-line HTTP client with a clean syntax for API requests.
+- [cURL to Fetch](https://alltoolsverse.com/tools/curl-to-fetch/) - Converts cURL requests into browser Fetch, TypeScript, Axios, or node-fetch code locally.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
 - [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
 
