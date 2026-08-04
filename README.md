@@ -360,6 +360,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Dice](https://www.dice.com) - Technology career marketplace for engineering and IT roles.
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Startup job board for YC-backed companies.
 - [Remotive Software Development Jobs](https://remotive.com/remote-jobs/software-dev) - Remote developer job board with role categorization.
+- [Jobs in JS](https://jobsinjs.com) - Job board for JavaScript developers.
 
 ## Developer Profile and Portfolio
 
