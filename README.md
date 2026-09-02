@@ -283,6 +283,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 - [The Twelve-Factor App](https://12factor.net) - A methodology for building portable, scalable, and maintainable software-as-a-service apps.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - The most-starred GitHub repository for learning system design, covering scalability, databases, and architecture patterns.
+- [FrontendAtlas System Design Blueprint](https://frontendatlas.com/guides/system-design-blueprint) - Frontend-specific interview guide covering requirements, client architecture, state, interfaces, accessibility, performance, and trade-offs.
 - [Refactoring.guru](https://refactoring.guru) - Interactive guide to design patterns, refactoring techniques, and code smells.
 - [Microservices.io](https://microservices.io) - A pattern language collection for microservices architecture created by Chris Richardson.
 - [ByteByteGo](https://bytebytego.com) - Alex Xu's visual explanations of system design concepts, paired with the System Design Interview book series.
