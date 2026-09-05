@@ -21,6 +21,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [AI Coding Assistants](#ai-coding-assistants)
 - [Productivity and Workflow Tools](#productivity-and-workflow-tools)
 - [API Tools and Testing](#api-tools-and-testing)
+- [Application Testing](#application-testing)
 - [Tool Discovery Platforms](#tool-discovery-platforms)
 - [System Design](#system-design)
 - [Learning Platforms](#learning-platforms)
@@ -262,6 +263,12 @@ Entries marked with `*` are especially beginner-friendly.
 - [HTTPie](https://httpie.io) - Human-friendly command-line HTTP client with a clean syntax for API requests.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
 - [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
+
+## Application Testing
+
+*Tools for checking user journeys in web and mobile applications.*
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available CLI, dashboard, and MCP tools for natural-language web, Android, and iOS application tests.
 
 ## Tool Discovery Platforms
 
