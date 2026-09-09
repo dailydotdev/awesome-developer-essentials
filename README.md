@@ -312,6 +312,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Exercism](https://exercism.org) - Practice-driven learning with mentor feedback across languages.
 - [edX Computer Science](https://www.edx.org/learn/computer-science) - Academic and professional courses across core computer science topics.
 - [MIT OpenCourseWare](https://ocw.mit.edu) - Open university course materials for foundational computer science study.
+- [Coddy](https://coddy.tech) - Interactive programming lessons with browser-based coding exercises and AI hints.
 
 ## Coding Practice and Challenges
 
