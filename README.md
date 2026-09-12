@@ -230,6 +230,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 *Daily tools for staying organized, managing tasks, and working faster in the terminal.*
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly Windows desktop companion showing Codex quota, reset timing, pace, forecasts, and local usage history.
 - [Docker](https://www.docker.com) - Platform for developing, shipping, and running applications in containers.
 - [Homebrew](https://brew.sh) - The missing package manager for macOS (and Linux).
 - [Linear](https://linear.app) - Issue tracking system for engineering planning and delivery.
