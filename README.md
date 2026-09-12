@@ -212,6 +212,7 @@ Entries marked with `*` are especially beginner-friendly.
 *AI tools that write, review, and debug code alongside you.*
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant integrated into common editors and IDEs.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Windsurf](https://windsurf.com) - AI-native IDE with an agentic flow that edits across files and reasons about your codebase.
 - [Claude Code](https://www.anthropic.com/claude-code) - Agentic coding tool for repository-level development tasks.
 - [Bolt.new](https://bolt.new) - Browser-based AI agent that generates, runs, and deploys full-stack apps from a prompt.
