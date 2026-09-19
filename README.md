@@ -250,6 +250,8 @@ Entries marked with `*` are especially beginner-friendly.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
 
+- [NextReset](https://nextreset.ai/) - Independent Codex reset-history tracker with official incident sources and a browser-local personal timer.
+
 ## API Tools and Testing
 
 *Tools for building, testing, and documenting APIs.*
