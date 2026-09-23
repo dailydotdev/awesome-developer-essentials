@@ -249,6 +249,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ## API Tools and Testing
 
