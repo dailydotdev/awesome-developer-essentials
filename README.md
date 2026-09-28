@@ -168,6 +168,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [MDN Web Docs](https://developer.mozilla.org) - Mozilla's authoritative reference for HTML, CSS, JavaScript, and Web APIs.
 - [web.dev](https://web.dev) - Google's guidance on modern web capabilities, performance, and accessibility.
 - [DevDocs](https://devdocs.io) - Unified, searchable browser for 700+ API documentation sets with offline support.
+- [Free JEV API Guide](https://jevapi.io/) - Independent guide by the BeatAPI team with a runnable first-request tutorial and examples for Jev's typed decision API.
 - [roadmap.sh](https://roadmap.sh) - Community-built visual learning paths for frontend, backend, DevOps, and 20+ other roles.
 - [TLDR Pages](https://tldr.sh) - Simplified, community-maintained man pages with practical command examples.
 - [Can I Use](https://caniuse.com) - Browser compatibility tables for HTML, CSS, and JavaScript APIs across all major browsers.
