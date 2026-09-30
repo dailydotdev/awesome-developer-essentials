@@ -235,6 +235,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Linear](https://linear.app) - Issue tracking system for engineering planning and delivery.
 - [Notion](https://www.notion.so) - Workspace for project docs, plans, and team notes.
 - [Obsidian](https://obsidian.md) - Markdown-first personal knowledge base for technical notes.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha CLI and MCP knowledge store for encrypted technical notes and agent task handoffs.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard for sketching hand-drawn-like diagrams.
 - [Raycast](https://www.raycast.com) - Command launcher for automating macOS developer workflows.
 - [Warp](https://www.warp.dev) - Terminal with modern command UX and collaboration features.
