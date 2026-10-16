@@ -262,6 +262,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [HTTPie](https://httpie.io) - Human-friendly command-line HTTP client with a clean syntax for API requests.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
 - [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
+- [CurlShot](https://curlshot.com) - Screenshot API that turns a URL, HTML, or Markdown into a PNG, JPEG, WebP, PDF, or scrolling video with one HTTP request, with a free plan.
 
 ## Tool Discovery Platforms
 
