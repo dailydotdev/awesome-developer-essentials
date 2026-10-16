@@ -249,6 +249,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
+- [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for rendered Markdown, JSON trees, CSV tables, PDFs, images and source code in one workspace.
 
 ## API Tools and Testing
 
