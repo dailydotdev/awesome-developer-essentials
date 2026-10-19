@@ -263,6 +263,8 @@ Entries marked with `*` are especially beginner-friendly.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
 - [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
 
+- [BeatAPI](https://beatapi.io/) - Agent Toolkit for integrating AI models, social data and web search through one API key.
+
 ## Tool Discovery Platforms
 
 *Where you go to find and compare new tools.*
