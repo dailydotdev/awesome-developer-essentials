@@ -190,6 +190,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds interface controls for inspecting and modifying page behavior.
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 - [Skim](https://skim.md) - Free, open-source markdown viewer for Chrome and Firefox with live reload, KaTeX math, Mermaid diagrams, and zero telemetry.
+- [Spoof Me](https://spoof-me.com/) - Switches the browser's user agent, language, timezone and screen size to test how a site behaves for other browsers, devices and locales.
 
 ## Code Editors and IDEs
 
