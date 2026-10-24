@@ -190,6 +190,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds interface controls for inspecting and modifying page behavior.
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 - [Skim](https://skim.md) - Free, open-source markdown viewer for Chrome and Firefox with live reload, KaTeX math, Mermaid diagrams, and zero telemetry.
+- [DevPause](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao) - Free extension adding copy-as-plain-text, continue, and wide-screen buttons under ChatGPT, Claude, and Gemini answers, handy when pulling code or docs out of an AI chat.
 
 ## Code Editors and IDEs
 
