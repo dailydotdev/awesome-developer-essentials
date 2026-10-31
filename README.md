@@ -249,6 +249,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Oh My Zsh](https://ohmyz.sh) - Framework for managing shell configuration and plugins.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Mac command-line network diagnostics with JSON output and command-scoped keep-awake.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
 
 ## API Tools and Testing
