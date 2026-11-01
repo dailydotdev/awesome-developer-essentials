@@ -190,6 +190,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds interface controls for inspecting and modifying page behavior.
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 - [Skim](https://skim.md) - Free, open-source markdown viewer for Chrome and Firefox with live reload, KaTeX math, Mermaid diagrams, and zero telemetry.
+- [Lumno](https://github.com/kubai087/lumno-extension) - Free, open-source command bar for Chrome, Edge and Firefox that searches tabs, bookmarks and history and jumps straight into GitHub, Stack Overflow, MDN or npm search from one shortcut.
 
 ## Code Editors and IDEs
 
