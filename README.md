@@ -191,6 +191,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 - [Skim](https://skim.md) - Free, open-source markdown viewer for Chrome and Firefox with live reload, KaTeX math, Mermaid diagrams, and zero telemetry.
 - [Lumno](https://github.com/kubai087/lumno-extension) - Free, open-source command bar for Chrome, Edge and Firefox that searches tabs, bookmarks and history and jumps straight into GitHub, Stack Overflow, MDN or npm search from one shortcut.
+- [Color Picker & Eyedropper by brownie.tools](https://chromewebstore.google.com/detail/color-picker-eyedropper-b/aohmgjejepleekcibmpplgomogbeoiam) - Pick colors, check WCAG contrast and export page palettes as CSS variables, JSON or a Tailwind theme, with local processing and no account.
 
 ## Code Editors and IDEs
 
