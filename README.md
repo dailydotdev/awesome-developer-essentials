@@ -224,6 +224,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer) - Assistant for coding and AWS workflow tasks.
 - [Aider](https://aider.chat) - Terminal-based coding assistant that edits files from chat prompts.
 - [Continue](https://www.continue.dev) - Open source framework for adding assistant workflows to editors.
+- [Imagera Code](https://imagera.ai/code) - Terminal coding agent that edits files, runs tests and shows the diff, on 276 coding models from one plan.
 - [Codex](https://github.com/openai/codex) - Open source coding agent from OpenAI for terminal-based development tasks.
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai) - Integrated assistant features for JetBrains IDE workflows.
 - [Tabby](https://tabbyml.com) - Open source self-hosted coding assistant for private codebases.
