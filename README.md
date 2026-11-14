@@ -258,6 +258,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 - [Postman](https://www.postman.com) - Industry-standard platform for designing, testing, and documenting APIs.
 - [jwt.io](https://jwt.io) - Debugger for decoding, verifying, and generating JSON Web Tokens.
+- [FrostRank JSON Formatter](https://frostrank.com/tools/json-formatter) - Free formatter and validator with exact line-and-column error messages, running entirely in the browser.
 - [Bruno](https://www.usebruno.com) - Offline-first, open source API client that stores collections as plain files in your Git repo.
 - [Hoppscotch](https://hoppscotch.io) - Open source, browser-based API testing tool with REST, GraphQL, and WebSocket support.
 - [Insomnia](https://insomnia.rest) - API client supporting REST, GraphQL, gRPC, and SOAP with environment and team management.
