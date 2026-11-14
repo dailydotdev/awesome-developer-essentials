@@ -44,6 +44,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Techmeme](https://www.techmeme.com) - Algorithmically aggregated technology headlines from multiple publications.
 - [Refind](https://refind.com) - Recommends articles from around the web based on your reading history.
 - [DZone](https://dzone.com) - Community-contributed developer articles and links across Java, DevOps, and cloud topics.
+- [AIHOT](https://aihot.news/) - Curated Chinese-language AI news for developers following model releases, research, and tooling updates.
 
 ## Newsletters
 
