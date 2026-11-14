@@ -340,6 +340,7 @@ Entries marked with `*` are especially beginner-friendly.
 
 - [Good First Issue](https://goodfirstissue.dev) - Aggregates beginner-friendly issues from popular repositories, filterable by programming language.
 - [First Contributions](https://firstcontributions.github.io) - Step-by-step guide and practice repository for making your first open source pull request.
+- [GSoC Organizations](https://gsocorganizations.xyz) - Searchable explorer for Google Summer of Code organizations, with filters for technologies and topics plus historical participation and project data.
 - [Up For Grabs](https://up-for-grabs.net) - Searchable directory of projects with tasks specifically tagged for new contributors.
 - [CodeTriage](https://www.codetriage.com) - Subscribe to get open source issues delivered to your inbox daily.
 - [OSS Insight](https://ossinsight.io) - Real-time GitHub analytics showing trending projects, language trends, and contributor activity.
