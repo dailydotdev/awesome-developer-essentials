@@ -120,7 +120,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [JS Party](https://changelog.com/jsparty) - Panel podcast covering JavaScript ecosystem developments.
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Academic videos on CS fundamentals like hashing, encryption, and logic.
 - [CoRecursive](https://corecursive.com) - Interviews focusing on the narrative stories behind software engineering challenges.
-- [Hussein Nasser](https://www.youtube.com/@HusseinNasser-software-engineering) - Deep dives into backend engineering, networking protocols, and database internals.
+- [Hussein Nasser](https://www.youtube.com/@hnasr) - Deep dives into backend engineering, networking protocols, and database internals.
 - [Fireship](https://www.youtube.com/@Fireship) - Short videos summarizing frameworks, tools, and engineering concepts.
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo) - Visual explanations of system design concepts and architecture patterns by Alex Xu.
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - Tutorials on Kubernetes, Docker, and cloud-native tooling.
@@ -130,7 +130,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Traversy Media](https://www.youtube.com/@TraversyMedia) - Tutorials on web development stacks and workflows.
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Concept-first videos on frontend and backend development.
 - [The Net Ninja](https://www.youtube.com/@NetNinja) - Structured tutorials on full-stack and framework fundamentals.
-- [Theo - t3.gg](https://www.youtube.com/@t3dotgg) - Commentary and breakdowns of modern developer tooling and trends.
+- [Theo - t3.gg](https://www.youtube.com/@theo) - Commentary and breakdowns of modern developer tooling and trends.
 
 ## Developer Surveys and Trend Reports
 
@@ -173,7 +173,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Can I Use](https://caniuse.com) - Browser compatibility tables for HTML, CSS, and JavaScript APIs across all major browsers.
 - [devhints.io](https://devhints.io) - Printable developer cheat sheets for tools, languages, and frameworks.
 - [QuickRef.ME](https://quickref.me) - Community cheat sheets for 200+ languages and tools in a scannable format.
-- [cheat.sh](https://cheat.sh) - Unified cheat sheet server accessible from the terminal via curl or browser.
+- [cheat.sh](https://github.com/chubin/cheat.sh) - Unified cheat sheet server accessible from the terminal via curl or browser.
 
 ## Browser Extensions
 
@@ -219,7 +219,6 @@ Entries marked with `*` are especially beginner-friendly.
 - [Bolt.new](https://bolt.new) - Browser-based AI agent that generates, runs, and deploys full-stack apps from a prompt.
 - [v0](https://v0.dev) - Vercel's AI tool that generates production-ready React components from descriptions.
 - [Codeium](https://codeium.com) - Completion and chat assistant for multiple editors.
-- [Tabnine](https://www.tabnine.com) - Code completion assistant with privacy-first team deployment.
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - Codebase-aware assistant for search, edits, and refactors.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer) - Assistant for coding and AWS workflow tasks.
 - [Aider](https://aider.chat) - Terminal-based coding assistant that edits files from chat prompts.
@@ -362,7 +361,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Hired](https://hired.com) - Developer job marketplace where companies apply to candidates.
 - [Dice](https://www.dice.com) - Technology career marketplace for engineering and IT roles.
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Startup job board for YC-backed companies.
-- [Remotive Software Development Jobs](https://remotive.com/remote-jobs/software-dev) - Remote developer job board with role categorization.
+- [Remotive Software Development Jobs](https://remotive.com/remote-jobs/software-development) - Remote developer job board with role categorization.
 
 ## Developer Profile and Portfolio
 
@@ -416,4 +415,4 @@ Please read the [contribution guidelines](contributing.md) before submitting a p
 
 ## Last Verified
 
-2026-02
+2026-11
