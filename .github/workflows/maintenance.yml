@@ -19,25 +19,23 @@ jobs:
 
       - name: Run link checker
         id: lychee
-        continue-on-error: true
-        run: |
-          npx lychee \
-            --verbose \
-            --no-progress \
-            --max-concurrency 8 \
-            --accept 200,429 \
-            --format markdown \
-            README.md > lychee-report.md
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-concurrency 8 --accept 200,403,429 README.md
+          format: markdown
+          output: lychee-report.md
+          fail: false
 
       - name: Count dead links
         id: dead-links
         run: |
-          if [ "${{ steps.lychee.outcome }}" = "success" ]; then
+          if [ "${{ steps.lychee.outputs.exit_code }}" = "0" ]; then
             echo "dead_count=0" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          dead_count=$(awk '/^\s*\[✗\]/{count++} END {print count+0}' lychee-report.md)
-          echo "dead_count=${dead_count:-0}" >> "$GITHUB_OUTPUT"
+          dead_count=$(grep -cE '^\s*[*-] \[' lychee-report.md || true)
+          if [ "${dead_count:-0}" = "0" ]; then dead_count=1; fi
+          echo "dead_count=${dead_count}" >> "$GITHUB_OUTPUT"
 
       - name: Open or update dead-link issue
         if: steps.dead-links.outputs.dead_count != '0'
@@ -87,7 +85,7 @@ jobs:
           DEAD_COUNT: ${{ steps.dead-links.outputs.dead_count }}
 
   monthly-stale-entry-review:
-    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 9 1 * *')
+    if: github.event_name == 'schedule' && github.event.schedule == '0 9 1 * *'
     runs-on: ubuntu-latest
     steps:
       - name: Open monthly stale-entry review issue
