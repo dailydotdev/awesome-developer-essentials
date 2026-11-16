@@ -250,6 +250,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
+- [JsonToolBox](https://jsontoolbox.cc/) - Open-source JSON toolkit with inline previews of images, colors, and media, plus local formatting, validation, and conversion in the browser.
 
 ## API Tools and Testing
 
