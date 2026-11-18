@@ -263,6 +263,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [HTTPie](https://httpie.io) - Human-friendly command-line HTTP client with a clean syntax for API requests.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight REST API client built directly into VS Code.
 - [Swagger UI](https://swagger.io/tools/swagger-ui) - Standard tool for rendering interactive, browsable documentation from OpenAPI specs.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting and debugging API responses.
 
 ## Tool Discovery Platforms
 
