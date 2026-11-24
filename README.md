@@ -86,6 +86,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Troy Hunt](https://www.troyhunt.com) - Security writing for developers and technology teams.
 - [Kent C. Dodds](https://kentcdodds.com/blog) - Tutorials and essays on JavaScript testing, React, and workflow.
 - [Addy Osmani](https://addyosmani.com/blog) - Performance and web engineering guidance from Chrome ecosystem work.
+- [Little Cups of Claude](https://littlecupsofclaude.com) - Short weekday tips on Claude Code, the Claude API, the Agent SDK and MCP.
 
 ## Company Engineering Blogs
 
