@@ -332,6 +332,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Topcoder](https://www.topcoder.com) - Competitive programming and challenge platform.
 - [CodeChef](https://www.codechef.com) - Contest-based problem solving platform for algorithm practice.
 - [CodinGame](https://www.codingame.com) - Problem-solving platform with game-style programming challenges.
+- [Aethel](https://aethel.pro/practice) - Free AI interview practice for developer roles and levels, with a quick check on each answer and no account needed.
 
 ## Contributing to Open Source
 
