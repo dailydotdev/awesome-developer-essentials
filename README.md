@@ -276,6 +276,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Best of JS](https://bestofjs.org) - JavaScript project discovery index ranked by activity and popularity.
 - [GitHub Trending](https://github.com/trending) - Daily and weekly list of repositories gaining momentum.
 - [GitHub Explore](https://github.com/explore) - Collections of notable projects and emerging topics.
+- [StarDay](https://github.day) - Compare GitHub projects and explore repositories gaining stars, with summaries in English and Chinese.
 - [Track Awesome List](https://www.trackawesomelist.com) - Index of updated awesome lists for ongoing resource discovery.
 
 ## System Design
