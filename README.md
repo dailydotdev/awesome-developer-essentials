@@ -191,6 +191,8 @@ Entries marked with `*` are especially beginner-friendly.
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - Enhances GitHub interface ergonomics for everyday code review work.
 - [Skim](https://skim.md) - Free, open-source markdown viewer for Chrome and Firefox with live reload, KaTeX math, Mermaid diagrams, and zero telemetry.
 - [Lumno](https://github.com/kubai087/lumno-extension) - Free, open-source command bar for Chrome, Edge and Firefox that searches tabs, bookmarks and history and jumps straight into GitHub, Stack Overflow, MDN or npm search from one shortcut.
+- [Sitefence](https://lukaslabs.top/sitefence) - Privacy-first Chrome website, path, and keyword blocker for distraction-free deep work (2,000 sites free, schedules, Pomodoro timer, zero network requests on Free).
+- [ThreadAttic](https://lukaslabs.top/threadattic) - Local-only Chrome extension adding folders, pins, search, saved prompts, and clean Markdown export inside ChatGPT and Claude without cloud sync.
 
 ## Code Editors and IDEs
 
